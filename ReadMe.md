@@ -1,4 +1,4 @@
-#BetterTkinter (BTk) Design Studio
+# BetterTkinter (BTk) Design Studio
 
 I am currently amidst developing a library module to use alongside tkinter which will;
 
@@ -16,7 +16,7 @@ Some examples of what is to be included;
  - Charts (Currently Bar, Line and Pie, lmk abt other ideas)
  - More fonts!
 
-** And I am still accepting ideas so be sure to put them below!**
+**And I am still accepting ideas so be sure to put them below!**
 
 *This library is still in development however I am looking at publishing version 0.0.1 before the new years. let me know your thoughts on this, I chose tkinter as it is relatively easy too learn for beginners and it has a lot of potential but will take a lot of time to be near complete.*
 
