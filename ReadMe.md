@@ -23,7 +23,7 @@ Some examples of what is to be included;
 __Complete Features:__
  
  - Rounded Corners
-		- On Rectangles and Circles Only
+	 - On Rectangles and Circles Only
  - Border Edges
 	 - On Rectangles and Circles Only
  - Transparent Fill
