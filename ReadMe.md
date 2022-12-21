@@ -34,3 +34,7 @@ On Rectangles and Circles Only
 
 Known Bugs:
 None because im a perfectionist 😫
+
+
+
+The library will be Pip Installable with documentation here as well as having a design studio with drag and drop abilities.
